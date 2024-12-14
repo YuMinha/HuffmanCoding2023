@@ -1,0 +1,25 @@
+
+j
+java:S2095‰"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Âù©˜8º¯¦Ã¾1
+i
+java:S2095!"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ó¬¨×8Äµ®Ã¾1
+j
+java:S2095±"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Âù©˜8Äµ®Ã¾1
+i
+java:S2095J"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ó¬¨×8Äµ®Ã¾1
+{
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ã‘ÉÝúÿÿÿÿ8Åµ®Ã¾1
+E
+java:S1659"#Declare "right" on a separate line.(™õ—Áüÿÿÿÿ8Æµ®Ã¾1
+L	java:S1061"+Replace this use of System.out by a logger.(§µˆñüÿÿÿÿ8«ŸÆÃ¾1
+Q
+java:S28642"4Iterate over the "entrySet" instead of the "keySet".(åÊÆ±8Òµ®Ã¾1
+G	java:S1063"+Replace this use of System.out by a logger.(½ÄéŠ8«ŸÆÃ¾1
+L	java:S1069"+Replace this use of System.out by a logger.(ÞÙå¢ûÿÿÿÿ8¸žÇÃ¾1
+Q
+java:S2864:"4Iterate over the "entrySet" instead of the "keySet".(Í‰‰Ä8Øµ®Ã¾1
+G	java:S106;"+Replace this use of System.out by a logger.(Áàž•8¸žÇÃ¾1
+Q
+java:S2864l"4Iterate over the "entrySet" instead of the "keySet".(åÊÆ±8µŸÆÃ¾1
+R
+java:S2864—"4Iterate over the "entrySet" instead of the "keySet".(Í‰‰Ä8¿žÇÃ¾1
